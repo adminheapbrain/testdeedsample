@@ -1,0 +1,20 @@
+{<Customer>
+  <firstname>string1</firstname>
+  <lastname>string</lastname>
+  <age>0</age>
+</Customer>}
+{<Customer>
+  <firstname>string2</firstname>
+  <lastname>string</lastname>
+  <age>0</age>
+</Customer>}
+{<Customer>
+  <firstname>string3</firstname>
+  <lastname>string</lastname>
+  <age>0</age>
+</Customer>}
+{<Customer>
+  <firstname>string4</firstname>
+  <lastname>string</lastname>
+  <age>0</age>
+</Customer>}
